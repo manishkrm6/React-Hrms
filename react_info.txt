@@ -1,0 +1,3 @@
+This is HRMS System on React Js. We are using Mongo DB, Express Js, React Js and Node Js.
+
+Happy Hacking!!!
